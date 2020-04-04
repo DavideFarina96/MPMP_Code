@@ -1,3 +1,4 @@
+# Solved by Davide Farina. Github: https://github.com/DavideFarina96
 # My logic is that in the first train run, you can go maximum to train_range distance
 # If you use a second run, you could take train_range/3 to distance train_range/3, and then come back
 # In this case, then, you could go to a distance of train_range + 1/3*train_range
